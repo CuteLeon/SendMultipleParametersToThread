@@ -1,0 +1,2 @@
+# SendMultipleParametersToThread
+向多线程传入多个参数
